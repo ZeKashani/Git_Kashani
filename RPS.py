@@ -254,7 +254,6 @@ while starterBoolean:
 
 kamyar = 'kamyar'
 
-kamyar.strip()
-RPS_Game.py
-Displaying
-RPS_Game.py.
+
+
+
