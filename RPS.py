@@ -252,7 +252,7 @@ while starterBoolean:
 
         continue
 
-kamyar = 'kamyar'
+
 
 
 
